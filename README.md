@@ -1,2 +1,2 @@
 # hello-world
-This is a just a silly Hello World. 
+This is a just a simple Hello World. 
